@@ -1,0 +1,8 @@
+interface:
+  display_name: "PaperForge 论文锻造"
+  short_description: "依据证据边界阅读、撰写、重构、审查论文并准备投稿"
+  default_prompt: "使用 $paper-forge 按证据优先原则处理这篇论文。"
+
+policy:
+  allow_implicit_invocation: true
+
